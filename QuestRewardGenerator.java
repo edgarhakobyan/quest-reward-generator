@@ -40,7 +40,7 @@ public class QuestRewardGenerator {
 
     private static double calculateBronzeProbability(int index, int total) {
         double x = (double) index / total;
-        return Math.pow(1 - x, 1.5) * (1 - 0.1 * Math.sin(3 * Math.PI * x));
+        return Math.pow(1 - x, 1.2) * (1 - 0.1 * Math.sin(3 * Math.PI * x));
     }
 
     private static double deterministicRandom(int index, int total) {

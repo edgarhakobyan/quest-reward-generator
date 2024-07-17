@@ -20,4 +20,4 @@ Compile and run the Java program, passing the number of quests as a command line
 - A string of length `N` consisting of characters "b" and "s", reflecting a similar statistical distribution as the example provided.
 
 ### Example Output
-- For `N = 100`, the output might look like this `bbbbbbbbbbbbbbbbbssbbbssbsbsbsbssbbbssbbbsbsbbsssssssbsssbssssbsssssssssbssssbssssbsssssssssssssssss`
+- For `N = 100`, the output might look like this `bbbbbbbbbbbbbbbbbbsbbbssbsbsbsbssbbbssbbbsbsbbsbssbbsbsssbsbsbbsssssssssbssssbsssbbsssssssssbssssbss`
